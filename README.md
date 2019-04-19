@@ -1,3 +1,7 @@
+**IMPORTANT! This version is built on maven. And develops independence from the original.**
+***
+
+
 ![LogFX Logo](docs/images/lofx-logo.png)
 
 [ ![Download](https://api.bintray.com/packages/renatoathaydes/maven/logfx/images/download.svg) ](https://bintray.com/renatoathaydes/maven/logfx/_latestVersion)
