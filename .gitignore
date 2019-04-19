@@ -1,6 +1,5 @@
 *.class
 *.iml
 
-/build/
-/.gradle/
+target
 /.idea/
